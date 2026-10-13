@@ -1,0 +1,10 @@
+stages:
+  - promote
+
+include:
+  - component: $CI_SERVER_FQDN/bcc/infra/pipeline-templates/tag-create-selected@~latest
+  - component: $CI_SERVER_FQDN/bcc/infra/pipeline-templates/tag-export@~latest
+    inputs:
+      stage: promote
+      destinationRepo: $BCC_BIZGOV_GITLAB/euop/sdg-zaplecze/common/seeds.git
+      when: on_success
