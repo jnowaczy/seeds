@@ -1,0 +1,28 @@
+{"_id":"75d7b1aa-64b5-45e6-b9b9-d7380d5c3ae8","code":"ZASO_MIE_ZAMEL","name":{"pl":"ze względu na miejsce zameldowania","current":"ze względu na miejsce zameldowania"}}
+{"_id":"a3711900-4f92-442a-8cc6-78441fcbed2e","code":"ZASO_MIE_ZAMIE","name":{"pl":"ze względu na miejsce zamieszkania","current":"ze względu na miejsce zamieszkania"}}
+{"_id":"d50cabbf-0294-4442-8d7d-4a291c71ff32","code":"ZASO_DOW_URZ","name":{"pl":"dowolny urząd","current":"dowolny urząd"}}
+{"_id":"58e02051-3e89-48e0-a014-79daed781dcc","code":"ZASO_LOK_PRZEDS","name":{"pl":"ze względu na lokalizację przedsięwzięcia","current":"ze względu na lokalizację przedsięwzięcia"}}
+{"_id":"d9fdd339-ae1c-45c0-9ec1-d9cb515dddbf","code":"ZASO_MIE_ZAMEL_ZAMIE","name":{"pl":"ze względu na miejsce zameldowania lub zamieszkania","current":"ze względu na miejsce zameldowania lub zamieszkania"}}
+{"_id":"0deb1b7a-cb08-4277-9919-4e1144b8d896","code":"ZASO_MIE_WYK_ZAW","name":{"pl":"ze względu na miejsce wykonywania zawodu","current":"ze względu na miejsce wykonywania zawodu"}}
+{"_id":"9b32b7ca-8bf1-4e29-97b5-706de25423ab","code":"ZASO_MIE_POB_CUDZ","name":{"pl":"ze względu na miejsce pobytu cudzoziemca","current":"ze względu na miejsce pobytu cudzoziemca"}}
+{"_id":"7f3a818a-ee6c-4679-bd7d-090e1d486d5e","code":"ZASO_MIE_WYK_ROB","name":{"pl":"ze względu na miejsce wykonywania robót","current":"ze względu na miejsce wykonywania robót"}}
+{"_id":"5c80d64d-8f5e-41d2-ba1a-61e36c688941","code":"ZASO_MIE_POL_UPR","name":{"pl":"ze względu na miejsce położenia upraw","current":"ze względu na miejsce położenia upraw"}}
+{"_id":"8e166279-0525-474a-a809-94b83f1b38d1","code":"ZASO_POL_PLA_NAS","name":{"pl":"ze względu na położenie plantacji nasiennej","current":"ze względu na położenie plantacji nasiennej"}}
+{"_id":"986650f9-c30e-4849-b80c-e3c1dffc2d55","code":"ZASO_PORT_MAC","name":{"pl":"ze względu na port macierzysty statku","current":"ze względu na port macierzysty statku"}}
+{"_id":"df81b650-637d-4d21-a5b7-4b8da46b3724","code":"ZASO_MIE_PRO_POL","name":{"pl":"ze względu na miejsce prowadzenia połowu","current":"ze względu na miejsce prowadzenia połowu"}}
+{"_id":"3ce3a5f9-cfcd-4bcc-b276-2de7f9f34491","code":"ZASO_KORZ_SRO","name":{"pl":"ze względu na miejsce korzystania ze środowiska","current":"ze względu na miejsce korzystania ze środowiska"}}
+{"_id":"861e15db-0322-4bcf-93e6-d399e8ac062a","code":"ZASO_ODP_KOM","name":{"pl":"ze względu na miejsce powstawania odpadów komunalnych","current":"ze względu na miejsce powstawania odpadów komunalnych"}}
+{"_id":"3a525769-e52a-4551-ae00-e57aac37932e","code":"ZASO_MIE_INW_BUD","name":{"pl":"ze względu na miejsce inwestycji budowlanej","current":"ze względu na miejsce inwestycji budowlanej"}}
+{"_id":"c85e6205-9d53-4dd8-8d3d-5d2e2684b552","code":"ZASO_MIE_ROZ","name":{"pl":"ze względu na miejsce rozbiórki","current":"ze względu na miejsce rozbiórki"}}
+{"_id":"fc9fcdb8-3c5f-4497-87aa-aadc44eb4062","code":"ZASO_POL_BUD","name":{"pl":"ze względu na położenie budynku","current":"ze względu na położenie budynku"}}
+{"_id":"8b1d653c-8d4b-4614-b057-f0011a3385f7","code":"ZASO_LOK_ZJA","name":{"pl":"ze względu na lokalizację zjazdu","current":"ze względu na lokalizację zjazdu"}}
+{"_id":"1fe05cb2-8b5d-4957-b803-9d35c81d50ab","code":"ZASO_LOK_ZAJ_PDROG","name":{"pl":"ze względu na lokalizację zajmowanego pasa drogowego","current":"ze względu na lokalizację zajmowanego pasa drogowego"}}
+{"_id":"677a1ce2-2433-4eee-be93-6dfd908b082d","code":"ZASO_POL_NIE","name":{"pl":"ze względu na położenie nieruchomości","current":"ze względu na położenie nieruchomości"}}
+{"_id":"65e23461-5147-4fe0-96b8-d34cf4663dbf","code":"ZASO_POL_DRZE","name":{"pl":"ze względu na położenie drzewa","current":"ze względu na położenie drzewa"}}
+{"_id":"43b01fa8-5a95-4c30-842d-08828a13bfef","code":"ZASO_LOK_INST","name":{"pl":"ze względu na lokalizację instalacji","current":"ze względu na lokalizację instalacji"}}
+{"_id":"f62005de-dce6-4afc-ad08-859bfac6b9ac","code":"ZASO_MIE_POL_ZAB","name":{"pl":"ze względu na miejsce położenia zabytku","current":"ze względu na miejsce położenia zabytku"}}
+{"_id":"fed88f32-89a6-4712-833c-05ca0d9ad92a","code":"ZASO_MIE_IMP_MAS","name":{"pl":"ze względu na miejsce imprezy masowej","current":"ze względu na miejsce imprezy masowej"}}
+{"_id":"12aae47e-0239-4f3e-9e7c-fb915c92ec29","code":"ZASO_MIE_ODP_CEL","name":{"pl":"ze względu na miejsce odprawy celnej","current":"ze względu na miejsce odprawy celnej"}}
+{"_id":"7c850a3b-90cb-4963-937e-96a033c2acb6","code":"ZASO_MIE_POL_OBI","name":{"pl":"ze względu na miejsce położenia obiektu","current":"ze względu na miejsce położenia obiektu"}}
+{"_id":"30a0c0dc-ab3e-4a10-b7d0-c894f63842e2","code":"ZASO_TRA_PRZEJ","name":{"pl":"ze względu na trasę przejazdu","current":"ze względu na trasę przejazdu"}}
+{"_id":"b7809abd-b88e-47fc-b82a-cac5acf9a5ea","code":"ZASO_SIEDZ_URZ","name":{"pl":"ze względu na siedzibę urzędu, który wydał decyzję","current":"ze względu na siedzibę urzędu, który wydał decyzję"}}
