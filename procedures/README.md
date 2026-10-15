@@ -1,17 +1,3 @@
-# Dumpy danych referencyjnych
-
-Pliki `*.dump` w katalogu `dumps/` to NDJSON (jeden dokument JSON na linię). Każdy plik trafia do kolekcji o tej samej nazwie.
-
-## Import
-
-```bash
-MONGODB_URI=mongodb://localhost:27017/seeds ./import.sh
-```
-
-- Wymaga `mongoimport` (MongoDB Database Tools) w PATH.
-- Każda kolekcja jest czyszczona przed importem (`--drop`), więc skrypt można uruchomić wielokrotnie.
-- Skrypt importuje wszystkie pliki `*.dump` z `dumps/`, bez wyjątków.
-
 ## Kolekcje
 
 | Kolekcja                           | Opis                                                                            |

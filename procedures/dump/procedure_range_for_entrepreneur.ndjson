@@ -1,0 +1,32 @@
+{"_id":"83e761f2-f147-4b7f-bb68-7e1214836adc","code":"ZASP_MIE_WYK","name":{"pl":"ze względu na miejsce wykonywania działalności","current":"ze względu na miejsce wykonywania działalności"}}
+{"_id":"e720539a-dcf3-45eb-97ae-0b4afb8a1b1d","code":"ZASP_SIEDZ","name":{"pl":"ze względu na siedzibę","current":"ze względu na siedzibę"}}
+{"_id":"4bd7a2a3-1d2a-49bc-afc6-e11594537aee","code":"ZASP_DOW_URZ","name":{"pl":"dowolny urząd","current":"dowolny urząd"}}
+{"_id":"73a54335-8730-4ef2-9d5e-fc5df0a06f37","code":"ZASP_LOK_PRZEDS","name":{"pl":"ze względu na lokalizację przedsięwzięcia","current":"ze względu na lokalizację przedsięwzięcia"}}
+{"_id":"b36650c4-35bb-415c-895c-9b0f9a5e5566","code":"ZASP_MIE_WYK_SIEDZ","name":{"pl":"ze względu na miejsce wykonywania działalności lub siedzibę firmy","current":"ze względu na miejsce wykonywania działalności lub siedzibę firmy"}}
+{"_id":"aa1a80fe-e34f-46de-b75d-7e0414a85acd","code":"ZASP_SIE_LUB_MIE","name":{"pl":"ze względu na siedzibę lub miejsce zamieszkania","current":"ze względu na siedzibę lub miejsce zamieszkania"}}
+{"_id":"371743fa-2d1d-44c3-a976-20dec4177d4b","code":"ZASP_PORT_ZALAD","name":{"pl":"ze względu na port załadunku statku","current":"ze względu na port załadunku statku"}}
+{"_id":"5490803b-cf04-4615-9a8c-7cc0199b7298","code":"ZASP_MIE_POL_OB","name":{"pl":"ze względu na miejsce położenia obiektu","current":"ze względu na miejsce położenia obiektu"}}
+{"_id":"918e68ef-4300-492c-b065-159b1e1ece59","code":"ZASP_MIE_WYK_RO","name":{"pl":"ze względu na miejsce wykonywania robót","current":"ze względu na miejsce wykonywania robót"}}
+{"_id":"9ddbe84f-ece7-4468-bf66-1df455ab3de6","code":"ZASP_MIE_POL_UPR","name":{"pl":"ze względu na miejsce położenia upraw","current":"ze względu na miejsce położenia upraw"}}
+{"_id":"4851a99c-4c22-4a1f-bfd6-332c1600f33e","code":"ZASP_POL_PLA_NAS","name":{"pl":"ze względu na położenie plantacji nasiennej","current":"ze względu na położenie plantacji nasiennej"}}
+{"_id":"e3094342-51fe-424f-a204-b0a7c6967a1e","code":"ZASP_PORT_MAC","name":{"pl":"ze względu na port macierzysty statku","current":"ze względu na port macierzysty statku"}}
+{"_id":"cab5d453-daac-4c42-a2eb-7bfed59b1697","code":"ZASP_MIE_PROW_POL","name":{"pl":"ze względu na miejsce prowadzenia połowu","current":"ze względu na miejsce prowadzenia połowu"}}
+{"_id":"ae535792-acde-49bb-821f-4bf50f18f8ff","code":"ZASP_LOK_SPRZED","name":{"pl":"ze względu na lokalizację punktu sprzedaży","current":"ze względu na lokalizację punktu sprzedaży"}}
+{"_id":"04c5a473-c058-4419-ad00-00b46fada5a9","code":"ZASP_KORZ_SRO","name":{"pl":"ze względu na miejsce korzystania ze środowiska","current":"ze względu na miejsce korzystania ze środowiska"}}
+{"_id":"5b5f33d6-dc3e-451c-a8c1-617296c85263","code":"ZASP_ODP_KOM","name":{"pl":"ze względu na miejsce powstawania odpadów komunalnych","current":"ze względu na miejsce powstawania odpadów komunalnych"}}
+{"_id":"cf9b9ca3-d52c-4f78-8aa1-4df4fc3a5277","code":"ZASP_MIE_ZAM","name":{"pl":"ze względu na miejsce zamieszkania","current":"ze względu na miejsce zamieszkania"}}
+{"_id":"51abe820-00d6-427c-805d-a715bb6b31a3","code":"ZASP_MIE_INW_BUD","name":{"pl":"ze względu na miejsce inwestycji budowlanej","current":"ze względu na miejsce inwestycji budowlanej"}}
+{"_id":"eff624fd-0383-4435-acc8-bc945b44a2a9","code":"ZASP_MIE_ROZ","name":{"pl":"ze względu na miejsce rozbiórki","current":"ze względu na miejsce rozbiórki"}}
+{"_id":"adcdb95d-1032-4f8e-9ba7-c471092ca4d2","code":"ZASP_POL_BUD","name":{"pl":"ze względu na położenie budynku","current":"ze względu na położenie budynku"}}
+{"_id":"7bee4b76-5213-4d09-ad48-29521a8f6135","code":"ZASP_LOK_ZJA","name":{"pl":"ze względu na lokalizację zjazdu","current":"ze względu na lokalizację zjazdu"}}
+{"_id":"8d2027be-0ecc-4515-bd1f-fbcf1f323364","code":"ZASP_LOK_ZAJ_PDROG","name":{"pl":"ze względu na lokalizację zajmowanego pasa drogowego","current":"ze względu na lokalizację zajmowanego pasa drogowego"}}
+{"_id":"81c5c747-9dd9-4741-af15-b4c728e1ae39","code":"ZASP_POL_NIE","name":{"pl":"ze względu na położenie nieruchomości","current":"ze względu na położenie nieruchomości"}}
+{"_id":"25b54640-8ebe-420c-9ee3-05f983691b66","code":"ZASP_POL_DRZE","name":{"pl":"ze względu na położenie drzewa","current":"ze względu na położenie drzewa"}}
+{"_id":"161a6b04-4e57-459e-b4a1-9cdad298a1e4","code":"ZASP_LOK_INST","name":{"pl":"ze względu na lokalizację instalacji","current":"ze względu na lokalizację instalacji"}}
+{"_id":"1475bd5c-c686-4f70-b188-3060f998e138","code":"ZASP_MIE_POL_ZAB","name":{"pl":"ze względu na miejsce położenia zabytku","current":"ze względu na miejsce położenia zabytku"}}
+{"_id":"42ebd772-d366-4ade-afe4-e5a82fe4feec","code":"ZASP_MIE_WYZBPR_ODP","name":{"pl":"ze względu na miejsce wytwarzania, zbierania lub przetwarzania odpadów","current":"ze względu na miejsce wytwarzania, zbierania lub przetwarzania odpadów"}}
+{"_id":"86bcea5c-46ef-4947-a773-ec34b904705b","code":"ZASP_MIE_IMP_MAS","name":{"pl":"ze względu na miejsce imprezy masowej","current":"ze względu na miejsce imprezy masowej"}}
+{"_id":"8136c91c-4da4-4213-9b35-7554c9aa890f","code":"ZASP_TRA_PRZEJ","name":{"pl":"ze względu na trasę przejazdu","current":"ze względu na trasę przejazdu"}}
+{"_id":"a733cdd9-709b-4db1-997f-e346b440d041","code":"ZASP_MIE_ODP_CEL","name":{"pl":"ze względu na miejsce odprawy celnej","current":"ze względu na miejsce odprawy celnej"}}
+{"_id":"b49bb72f-d497-47d2-b4c2-10a0ababe684","code":"ZASP_MIE_PRO_KSI_RACH","name":{"pl":"ze względu na miejsce prowadzenia ksiąg rachunkowych","current":"ze względu na miejsce prowadzenia ksiąg rachunkowych"}}
+{"_id":"96bf9c18-59dd-48d2-92c2-b92d8d9a4d9d","code":"ZASP_SIEDZ_URZ","name":{"pl":"ze względu na siedzibę urzędu, który wydał decyzję","current":"ze względu na siedzibę urzędu, który wydał decyzję"}}
